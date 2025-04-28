@@ -1,4 +1,4 @@
-# DAAHandsOn_14
+# HandsOn_15
 
 ## Shortest Path Algorithms
 
@@ -20,7 +20,7 @@ This project implements three popular shortest-path algorithms, packaged with an
 
 ## **File Structure**
 
-DAAHANDSON_14/
+HANDS_ON_15/
 
 │
 
